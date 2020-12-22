@@ -24,6 +24,10 @@ cra로 만든 앱을 보면 번들러가 알아서 react랑 react-dom을 갖고�
   * [React 진짜 모르겠어서 질문한번 남겨봄](https://stackoverflow.com/questions/65410088/react-how-does-it-work-on-gatsby-and-nextjs)
 
 ## 후기
+예제 결과!
+
+<img src="assets/3.png" width="500">
+
 vdom을 이렇게 따로 써보니까 어떤식으로 비교하고 업데이트 되는지 좀더 파악이 되는거같다. 뭔가 리액트랑 좀더 가까워진 오늘 하루~! 하지만 아직 next js동작원리는 감도 안온다!!! 나중에 아마 여기서 구현한거 다 까먹겠지만, 그때와서 다시 보면 좀더 알기 좋지 않을까 싶다. 여튼 이제 리액트는 어떻게 돌아간다는 건지 알겠는데, react가 ssr에서 어떻게 쓰인단건지 아직도 감이 잘안오는것같다!! 이건 다음에 또 공부하는걸로!
 
 ## React에서 구현해야하는 요소들
