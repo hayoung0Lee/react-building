@@ -21,7 +21,7 @@ cra로 만든 앱을 보면 번들러가 알아서 react랑 react-dom을 갖고�
 * 추가
   * [ReactJs server-side rendering vs client-side rendering](https://stackoverflow.com/questions/27290354/reactjs-server-side-rendering-vs-client-side-rendering)
   * [정적사이트란](https://blog.lgcns.com/2336)
-  * [React 진짜 모르겠어서 질문한번 남겨봄](https://stackoverflow.com/questions/65410088/react-how-does-it-work-on-gatsby-and-nextjs)
+  * [React 진짜 모르겠어서 질문한번 남겨봄 with Gatsby](https://stackoverflow.com/questions/65416545/how-does-react-work-on-gatsby-statically-generated/65420315#65420315)
 
 ## 후기
 예제 결과!
